@@ -1,0 +1,4 @@
+nummanip
+=
+
+Testing GoLang modules
